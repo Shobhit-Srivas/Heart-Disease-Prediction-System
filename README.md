@@ -103,6 +103,7 @@ The trained model was integrated into a Streamlit web application.
 Heart-Disease-Prediction-System/
 │
 ├── app.py
+├── heart.csv
 ├── knn_heart_model.pkl
 ├── heart_scaler.pkl
 ├── heart_columns.pkl
